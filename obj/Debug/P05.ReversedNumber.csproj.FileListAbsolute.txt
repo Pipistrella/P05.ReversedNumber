@@ -1,0 +1,5 @@
+C:\Users\Oriya\Desktop\SoftUni\Fundamentals\Advanced C#\Lecture 2\Methods\P05.ReversedNumber\bin\Debug\P05.ReversedNumber.exe.config
+C:\Users\Oriya\Desktop\SoftUni\Fundamentals\Advanced C#\Lecture 2\Methods\P05.ReversedNumber\bin\Debug\P05.ReversedNumber.exe
+C:\Users\Oriya\Desktop\SoftUni\Fundamentals\Advanced C#\Lecture 2\Methods\P05.ReversedNumber\bin\Debug\P05.ReversedNumber.pdb
+C:\Users\Oriya\Desktop\SoftUni\Fundamentals\Advanced C#\Lecture 2\Methods\P05.ReversedNumber\obj\Debug\P05.ReversedNumber.exe
+C:\Users\Oriya\Desktop\SoftUni\Fundamentals\Advanced C#\Lecture 2\Methods\P05.ReversedNumber\obj\Debug\P05.ReversedNumber.pdb
